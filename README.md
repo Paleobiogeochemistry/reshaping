@@ -1,21 +1,21 @@
 # reshape (under edition)
 
-# A tool for fast time interval (years before present) proxy data analysis for large data sediment core data bases. 
+# A tool for fast time interval (years before present) proxy data analysis for large sediment core databases. 
 
 ## Motivation and scientific goals
 
-This GitHub repository storage all codes used for data analysis and visualization of the stable isotopes and radiocarbon ventilation ages (can be used for any other proxy data) results for the work "Reshaping the Southeast Pacific Water Masses during the Last Glacial - Interglacial transition: Dynamics and Carbon Storage".
+This GitHub repository stores all code used for data analysis and visualisation of the stable isotopes and radiocarbon ventilation ages (can be used for any other proxy data) results for the work "Reshaping the Southeast Pacific Water Masses during the Last Glacial-Interglacial transition: Dynamics and Carbon Storage".
 
-We used for published data mining and the organization of our new stable isotope and radiocarbon data the methodology described by Muglia et al., 2023 (https://www.nature.com/articles/s41597-023-02024-2) that consider the organization of depth model, age data raw data and age model and proxy data per sediment core in indivialds folders with notes about the data update and mangment. A soon the new data will be published, will be submited to Muglia et al., 2024 (https://zenodo.org/records/11187264)  For the most updated versions of the data set, each core information was organized in two txt files.  
+We used for published data mining and the organization of our new stable isotope and radiocarbon data the methodology described by Muglia et al., 2023 (https://www.nature.com/articles/s41597-023-02024-2) that consider the organization of depth model, age data raw data and age model and proxy data per sediment core in indivialds folders with notes about the data update and mangment. A soon as the new data is published, it will be submitted to Muglia et al., 2024 (https://zenodo.org/records/11187264).  For the most updated versions of the data set, the core information was organised in two .txt files.  
 
 
 
-## Getting started (Generation of proxy data sediment sites imput files)  
+## Getting started (Generation of proxy data sediment sites input files)  
 
-1. Main metadata file: This file (called index) will storage all metada information of the sediment cores that will be analyzed. Mandatory information is the location [(longitude (in degress east), latitude (in degress north), water depth (in meters bellow the sea level)] and the ID of the core. The text file is separated by tabulations without spaces. In relation to the ID of the core, the first part of the name represent the type of analysis, the second part the name of the core.
+1. Main metadata file: This file (called index) will store all metadata information of the sediment cores that will be analysed. Mandatory information is the location [(longitude (in degrees east), latitude (in degrees north), water depth (in meters below the sea level)] and the ID of the core. The text file is separated by tabs without spaces. About the ID of the core, the first part of the name represents the type of analysis, the second part the name of the core.
 
 >* siamrad: represent the cores with results used for d13C and d18O data analysis and visualization. 
->* siamradven: represent the cores with results used for radiocarbon ventilation ages data analysis and visualization. 
+>* siamradven: represent the cores with results used for radiocarbon ventilation ages data analysis and visualisation. 
 
    Example of index siamrad  
 
@@ -50,7 +50,7 @@ Example siamrad files
 >* 21	11158	-0.24	3.44
 >* 21	11290	-0.01	3.46
 
-4. Main radiocarbon data files (siamradven). Each file is one sediment core data organized following Rafter et al., 2022 https://www.science.org/doi/full/10.1126/sciadv.abq5434. 
+4. Main radiocarbon data files (siamradven). Each file is one sediment core data organised following Rafter et al., 2022 https://www.science.org/doi/full/10.1126/sciadv.abq5434. 
 
 A: depth model in cm (called cm)
 B: radiocarbon age in years (called age)
@@ -83,13 +83,13 @@ AA: DELTA14Cage.atmos.err
 
 5. Surface sediment data (If you want to include this data)
 
-6. Modern Bottom water hydrological variables (in this case d13C and d18O equilibrium calcite) 
+6. Modern Bottom water hydrological variables (in this case, d13C and d18O equilibrium calcite) 
  
-## What each code do? 
+## What does each code do? 
 
 1. water_mass_plot.py
 
-Several plots using the following variables latitude, longitude, water depth versus d13C, d18O, Radiocarbon ventilation ages
+Several plots using the following variables: latitude, longitude, water depth, versus d13C, d18O,and  Radiocarbon ventilation ages
 
 
 
@@ -106,9 +106,9 @@ Several plots using the following variables latitude, longitude, water depth ver
 
 ## Run reshape python codes (Generation of output file)
 
-1) Install Python (recommendable last edition) https://www.python.org/
+1) Install Python (recommended latest version) https://www.python.org/
 2) Check reshape codes 1, 2, 3 (attached) 
-3) Create in your PC a single folder where you add all imput files: index, siamrad core sites, siamradven core sites, surface sediments siamrad core sites (only one file per list), bottom water d13C and d18O (if are available)  
+3) Create on your PC a single folder where you add all input files: index, siamrad core sites, siamradven core sites, surface sediments siamrad core sites (only one file per list), bottom water d13C and d18O (if available)  
 4) Run the code in your terminal or Spider console
 
 ## Data management and script developers 
