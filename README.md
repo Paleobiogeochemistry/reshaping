@@ -113,7 +113,7 @@ Several plots using the following variables latitude, longitude, water depth ver
 
 ## Data management and script developers 
 
-* **Dharma A. Reyes Macaya** - [*Paleobiogeochemistry working group*](https://pastclimates.site.hw.ac.uk/)*, Lyell Centre, Heriot-Watt University, Scotland, UK* - [*MARUM*](https://www.marum.de/en/index.html)*, University of Bremen, Germany* - [dharmareyes@gmail.com] Marine Biogeochemist, Paleoceanographer and Data Scientist
+* **Dharma A. Reyes Macaya** - [*Paleobiogeochemistry working group*](https://pastclimates.site.hw.ac.uk/)*, Lyell Centre, Heriot-Watt University, Scotland, UK* - [*MARUM*](https://www.marum.de/en/index.html)*, University of Bremen, Germany* - [dharmisreyesmacaya@gmail.com] Marine Biogeochemist, Paleoceanographer and Data Scientist
 * **Francisco Manuel García Araya** - [garcicia@gmail.com] Earth Scientist, Numerical Modeller, Python mentor. 
 
 ### reshape Collaborators
