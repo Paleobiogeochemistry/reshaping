@@ -8,6 +8,8 @@ This GitHub repository storage all codes used for data analysis and visualizatio
 
 We used for published data mining and the organization of our new stable isotope and radiocarbon data the methodology described by Muglia et al., 2023 (https://www.nature.com/articles/s41597-023-02024-2) that consider the organization of depth model, age data raw data and age model and proxy data per sediment core in indivialds folders with notes about the data update and mangment. A soon the new data will be published, will be submited to Muglia et al., 2024 (https://zenodo.org/records/11187264)  For the most updated versions of the data set, each core information was organized in two txt files.  
 
+
+
 ## Getting started (Generation of proxy data sediment sites imput files)  
 
 1. Main metadata file: This file (called index) will storage all metada information of the sediment cores that will be analyzed. Mandatory information is the location [(longitude (in degress east), latitude (in degress north), water depth (in meters bellow the sea level)] and the ID of the core. The text file is separated by tabulations without spaces. In relation to the ID of the core, the first part of the name represent the type of analysis, the second part the name of the core.
@@ -86,8 +88,21 @@ AA: DELTA14Cage.atmos.err
 ## What each code do? 
 
 1. water_mass_plot.py
-2. (add name).py
+
+Several plots using the following variables latitude, longitude, water depth versus d13C, d18O, Radiocarbon ventilation ages
+
+
+
+
+
 3. (add name).py
+
+
+
+
+
+
+4. (add name).py
 
 ## Run reshape python codes (Generation of output file)
 
