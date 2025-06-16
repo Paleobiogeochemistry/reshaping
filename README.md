@@ -16,21 +16,21 @@ siamradven: represent the cores with results used for radiocarbon ventilation ag
 
    Example of index siamrad  
 
-IDarchive	longitude	latitude	depth
-siamrad_so26_96	-85.84	0.68	2706
-siamrad_so26_127	-85.39	-1.55	2463
-siamrad_so26_131	-85.00	-3.53	3381
-siamrad_gik17747_1	-72.33	-32.74	2464
-siamrad_geob3302_1	-72.09	-33.22	1498
+>*IDarchive	longitude	latitude	depth
+>*siamrad_so26_96	-85.84	0.68	2706
+>*siamrad_so26_127	-85.39	-1.55	2463
+>*siamrad_so26_131	-85.00	-3.53	3381
+>*siamrad_gik17747_1	-72.33	-32.74	2464
+>*siamrad_geob3302_1	-72.09	-33.22	1498
 
    Example of index siamradven  
 
-site	longitude	latitude	depth
-siamradven_md07_3088	-75.00	-46.00	1536.00
-siamradven_geob7167_6	-73.93	-36.45	2062.00
-siamradven_22sl	-73.68	-36.22	1001.00
-siamradven_geob7163_7	-73.60	-36.43	537.00
-siamradven_geob7149_2	-72.00	-31.49	3086.00
+>*site	longitude	latitude	depth
+>*siamradven_md07_3088	-75.00	-46.00	1536.00
+>*siamradven_geob7167_6	-73.93	-36.45	2062.00
+>*siamradven_22sl	-73.68	-36.22	1001.00
+>*siamradven_geob7163_7	-73.60	-36.43	537.00
+>*siamradven_geob7149_2	-72.00	-31.49	3086.00
 
   
 3. For stable isotope data --> A: cm (depth model), B: age in years before present (age model), C: carbon stable isotopes in benthic foraminifera d13C, D: oxygen stable isotope in benthic foraminifera d18O.
