@@ -11,8 +11,9 @@ We used for published data mining and the organization of our new stable isotope
 ## Getting started (Generation of proxy data sediment sites imput files)  
 
 1. Main metadata file: This file (called index) will storage all metada information of the sediment cores that will be analyzed. Mandatory information is the location [(longitude (in degress east), latitude (in degress north), water depth (in meters bellow the sea level)] and the ID of the core. The text file is separated by tabulations without spaces. In relation to the ID of the core, the first part of the name represent the type of analysis, the second part the name of the core.
-siamrad: represent the cores with results used for d13C and d18O data analysis and visualization. 
-siamradven: represent the cores with results used for radiocarbon ventilation ages data analysis and visualization. 
+
+>* siamrad: represent the cores with results used for d13C and d18O data analysis and visualization. 
+>* siamradven: represent the cores with results used for radiocarbon ventilation ages data analysis and visualization. 
 
    Example of index siamrad  
 
