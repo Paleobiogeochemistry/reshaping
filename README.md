@@ -4,7 +4,7 @@
 
 ## Motivation and scientific goals
 
-This GitHub repository storage all codes used for data analysis and visualization of the stable isotopes and radiocarbon ventilation ages (can be used for any other proxy data) results for the work "Reshaping the Southeast Pacific Water Masses since the Last Glacial - Interglacial transition: Dynamics and Carbon Storage".
+This GitHub repository storage all codes used for data analysis and visualization of the stable isotopes and radiocarbon ventilation ages (can be used for any other proxy data) results for the work "Reshaping the Southeast Pacific Water Masses during the Last Glacial - Interglacial transition: Dynamics and Carbon Storage".
 
 We used for published data mining and the organization of our new stable isotope and radiocarbon data the methodology described by Muglia et al., 2023 (https://www.nature.com/articles/s41597-023-02024-2) that consider the organization of depth model, age data raw data and age model and proxy data per sediment core in indivialds folders with notes about the data update and mangment. A soon the new data will be published, will be submited to Muglia et al., 2024 (https://zenodo.org/records/11187264)  For the most updated versions of the data set, each core information was organized in two txt files.  
 
