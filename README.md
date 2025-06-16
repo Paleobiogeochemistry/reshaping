@@ -104,7 +104,7 @@ AA: DELTA14Cage.atmos.err
 ### reshape Collaborators
 
 * **Consuelo Martínez Fontaine** - [consuelola.m.f@gmail.com]
-* **Katya Canal Solis - [*Paleobiogeochemistry working group*](https://pastclimates.site.hw.ac.uk/)*, Lyell Centre, Heriot-Watt University, Scotland, UK*
-* **Babette Hoogakker - [*Paleobiogeochemistry working group*](https://pastclimates.site.hw.ac.uk/)*, Lyell Centre, Heriot-Watt University, Scotland, UK*
+* **Katya Canal Solis** - [*Paleobiogeochemistry working group*](https://pastclimates.site.hw.ac.uk/)*, Lyell Centre, Heriot-Watt University, Scotland, UK*
+* **Babette Hoogakker** - [*Paleobiogeochemistry working group*](https://pastclimates.site.hw.ac.uk/)*, Lyell Centre, Heriot-Watt University, Scotland, UK*
 
 
