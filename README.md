@@ -48,7 +48,7 @@ Example siamrad files
 >* 21	11158	-0.24	3.44
 >* 21	11290	-0.01	3.46
 
-4. Main radiocarbon data files (siamradven) (each file is one sediment core data organized as the followed following format provide by Rafter et al., 2022 https://www.science.org/doi/full/10.1126/sciadv.abq5434)
+4. Main radiocarbon data files (siamradven). Each file is one sediment core data organized following Rafter et al., 2022 https://www.science.org/doi/full/10.1126/sciadv.abq5434. 
 
 A: depth model in cm (called cm)
 B: radiocarbon age in years (called age)
